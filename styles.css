@@ -31,3 +31,10 @@ p {
 img {
   width: 80%;
 }
+
+footer{
+  color: #FA9494;
+  text-align: center;
+  position: relative;
+  top:130px;
+}
